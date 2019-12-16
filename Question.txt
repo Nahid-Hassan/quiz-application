@@ -1,0 +1,138 @@
+1 Byte = ?
+8 bits
+1 bits
+4 bits
+16 bits
+8 bits
+The word FTP stands for–
+File Translate Protocol
+File Transit Protocol
+File Typing Protocol
+File-Transfer Protocol
+File-Transfer Protocol
+What is the size of short variable?
+8 bits
+1 bits
+4 bits
+16 bits
+16 bits
+Which of the following is a thread safe?
+StringBuilder
+StringBuffer
+Both of the above
+none of the above
+StringBuffer
+Which one of the following is correct?
+Java applets can not be written in any programming language
+An applet is not a small program
+An applet can be run on its own
+Applets are embedded in another applications
+Applets are embedded in another applications
+What kind of variables a class can consist of?
+class variables, instance variables
+class variables, local variables, instance variables
+class variables
+class variables, local variables
+class variables, local variables, instance variables
+When static binding occurs?
+Static binding occurs during Compile time.
+Static binding occurs during load time.
+Static binding occurs during runtime.
+None of the above.
+Static binding occurs during Compile time.
+What are Wrapper classes?
+These are classes that allow primitive types to be accessed as objects.
+These are classes that wraps functionality of an existing class.
+Both of the above.
+None of the above.
+These are classes that allow primitive types to be accessed as objects.
+
+What will happen if static modifier is removed from the signature of the main method?
+Compilation Error.
+RunTime Error: NoSuchMethodError.
+Program will compile and run without any output.
+Program will compile and run to show the required output.
+RunTime Error: NoSuchMethodError.
+Which of the following is a thread safe?
+StringBuilder
+StringBuffer
+Both of the above
+none of the above
+StringBuffer
+What will be the output of following code? Int a=2; Integer b=2; System.out.println(a==b);
+0
+Compile time error
+1
+Run time error
+1
+Select the correct answer
+An interface can implement another interface
+An interface can be instantiated
+All the methods of an interface are by default abstract
+An interface can contain concrete methods
+All the methods of an interface are by default abstract
+Choose the correct option:
+StringBuffer is a wrapper class
+Integer is a wrapper class
+Wrapper class contains no methods
+String is a wrapper class
+Integer is a wrapper class
+Which of the following is an implementation of Map interface:
+TreeSet
+ArrayList
+Hashtable
+Vector
+Hashtable
+Which of the following option is not a valid wrapper type object creation?
+New Boolean(“truth”);
+New Long(“3465”);
+New Character(“B”);
+New Byte(“10”);
+New Boolean(“truth”);
+Which of the following statement is false about for-each loop in Java?
+For-each loop does the automatic typecasting
+For-each loop is an alternative to Enumeration
+For-each loop is an alternative to Iterator
+For-each loop can work only with generic collections
+For-each loop can work only with generic collections
+What is the output of the following code? 1 String str = "Welcome" 2 str.concat(" to Java!"); 3 System.out.println(str);String are immutable, compilation error at line 2.
+String are immutable, runtime exception at line 2.
+Prints “Welcome”.
+Prints “Welcome to Java!”
+Prints “Welcome”.
+Which of the following correctly fits for the definition holding instances of other objects?
+Polymorphic
+Generic
+Composition
+Aggregation
+Generic
+Which of the following statements is TRUE about StringBuffer class?
+StringBuffer can be extended, since it is mutable
+StringBuffer is a mutable class
+StringBuffer is a sub class of String class
+StringBuffer is a Wrapper to the existing String class
+StringBuffer is a mutable class
+What is the advantage of runtime polymorphism?
+Efficient utilization of memory at runtime
+Code flexibility at runtime
+Avoiding method name confusion at runtime
+Code reus
+Code flexibility at runtime
+Which of the following statements are true about finalize method?
+Finalize will run when an object becomes unreachable
+Finalize allows a programmer to free memory allocated to an object
+Finalize may run before or after an object is garbage collected
+Finalize will always run before an object is garbage collected
+Finalize will always run before an object is garbage collected
+Which statement is true for the class java.util.ArrayList?
+The elements in the collection are ordered.
+The collection is guaranteed to be immutable.
+The elements in the collection are guaranteed to be unique.
+The elements in the collection are accessed using a unique key.
+The elements in the collection are ordered.
+Type IV JDBC driver is a driver
+which is written in C++
+which requires an intermediate layer
+which communicates through Java sockets
+which translates JDBC function calls into API not native to DBMS
+which communicates through Java sockets

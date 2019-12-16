@@ -1,2 +1,2 @@
-# Java-GUI-Quiz-Application
-This is simple Java Swing based GUI application.
+# Quiz-Application-
+GUI quiz application using java swing.
