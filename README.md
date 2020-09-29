@@ -1,4 +1,4 @@
-# Quiz-Application-
+# Quiz-Application
 GUI quiz application using java swing.
 
 # Application Frame
